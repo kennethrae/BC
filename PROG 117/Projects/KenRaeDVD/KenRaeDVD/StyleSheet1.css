@@ -1,0 +1,22 @@
+﻿body {
+  background-image: url(Images/my-background.jpg);
+}
+h1 {
+  font-size: 35px;
+  font: Arial;
+  color: darkblue;
+}
+h3 {
+  font-size: 15px;
+  font: Tahoma;
+  color: Red;
+}
+.myLinks {  
+  text-decoration: none;
+  color: Blue;
+}
+.widelabel {
+  display:-moz-inline-block;
+  display:inline-block;
+  width: 50px;
+}

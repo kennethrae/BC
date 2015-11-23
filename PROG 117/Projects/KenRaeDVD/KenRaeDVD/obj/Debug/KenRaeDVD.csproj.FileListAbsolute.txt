@@ -1,0 +1,12 @@
+c:\users\kenneth.rae\documents\visual studio 2013\Projects\KenRaeDVD\KenRaeDVD\bin\KenRaeDVD.dll.config
+c:\users\kenneth.rae\documents\visual studio 2013\Projects\KenRaeDVD\KenRaeDVD\bin\KenRaeDVD.dll
+c:\users\kenneth.rae\documents\visual studio 2013\Projects\KenRaeDVD\KenRaeDVD\bin\KenRaeDVD.pdb
+c:\users\kenneth.rae\documents\visual studio 2013\Projects\KenRaeDVD\KenRaeDVD\obj\Debug\KenRaeDVD.csprojResolveAssemblyReference.cache
+c:\users\kenneth.rae\documents\visual studio 2013\Projects\KenRaeDVD\KenRaeDVD\obj\Debug\KenRaeDVD.dll
+c:\users\kenneth.rae\documents\visual studio 2013\Projects\KenRaeDVD\KenRaeDVD\obj\Debug\KenRaeDVD.pdb
+C:\Users\ken\Documents\Visual Studio 2013\Projects\KenRaeDVD\KenRaeDVD\bin\KenRaeDVD.dll.config
+C:\Users\ken\Documents\Visual Studio 2013\Projects\KenRaeDVD\KenRaeDVD\bin\KenRaeDVD.dll
+C:\Users\ken\Documents\Visual Studio 2013\Projects\KenRaeDVD\KenRaeDVD\bin\KenRaeDVD.pdb
+C:\Users\ken\Documents\Visual Studio 2013\Projects\KenRaeDVD\KenRaeDVD\obj\Debug\KenRaeDVD.csprojResolveAssemblyReference.cache
+C:\Users\ken\Documents\Visual Studio 2013\Projects\KenRaeDVD\KenRaeDVD\obj\Debug\KenRaeDVD.dll
+C:\Users\ken\Documents\Visual Studio 2013\Projects\KenRaeDVD\KenRaeDVD\obj\Debug\KenRaeDVD.pdb
